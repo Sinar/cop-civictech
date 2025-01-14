@@ -1,7 +1,6 @@
 ## <Name> Repository
 
-This repository contains the code, resources & artifacts for <repo or project name> at Sinar Project. 
-<Add any supporting information here>
+This repository contains the code, resources & artifacts for Civic Tech Community of Practice at Sinar Project. 
 
 ### About
 This is a Github repository template for Sinar, with this sample README with its section as a general structure/framework for new repository.
